@@ -1,0 +1,6 @@
+me.ajax("","",function(d){
+    var d = d;
+    if(d.s == 1){
+    
+    }
+})
